@@ -84,7 +84,7 @@ A CF matrix shows:
 
 - If you launch a phone campaign, please address the population you are targeting to increase accuracy potential
 
-
+- Please see: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing# for original data source 
 
 
 
